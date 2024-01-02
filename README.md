@@ -12,7 +12,7 @@
 
 📫 How to reach me **feven.25yi@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1C0GUhGk3iPImEJk2orz1-Mg2kmuX6kx8/view?usp=sharing](https://drive.google.com/file/d/1C0GUhGk3iPImEJk2orz1-Mg2kmuX6kx8/view?usp=sharing)
+📄 Know about my experiences (https://drive.google.com/file/d/1s1cogp6SWt6HviugedQajc4RibcVb_C1/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
