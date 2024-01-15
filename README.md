@@ -8,7 +8,7 @@
 <h2> 🚀 Actively seeking internships and meaningful projects.</h2><br>
 <h2> 📚 Lifelong learner, always exploring new technologies.</h2><br>
 
-  <p>🌐 <a href="https://your-portfolio-link.com" target="_blank">Check out my portfolio!</a></p>
+  <p>🌐 <a href="[https://your-portfolio-link.com](https://feven2552.github.io/portfolio_1/)" target="_blank">Check out my portfolio!</a></p>
 
 📝 I regularly write articles on [https://medium.com/@feven.25yi](https://medium.com/@feven.25yi)
 
