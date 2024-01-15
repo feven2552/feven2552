@@ -8,6 +8,8 @@
 <h2> 🚀 Actively seeking internships and meaningful projects.</h2><br>
 <h2> 📚 Lifelong learner, always exploring new technologies.</h2><br>
 
+🌐 **[Check out my portfolio!]([https://your-portfolio-link.com](https://feven2552.github.io/portfolio_1/))**
+
 📝 I regularly write articles on [https://medium.com/@feven.25yi](https://medium.com/@feven.25yi)
 
 📫 How to reach me **feven.25yi@gmail.com**
